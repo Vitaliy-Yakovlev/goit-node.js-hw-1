@@ -23,4 +23,4 @@ node index.js --action add --name Mango --email mango@gmail.com --phone
 
 'http://joxi.ru/EA48ELoHvMNEyA'
 
-node index.js --action remove --id=3
+node index.js --action remove --id=be0ddb1d-851c-447c-98de-519d74addb71

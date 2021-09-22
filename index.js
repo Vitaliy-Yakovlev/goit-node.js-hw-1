@@ -55,7 +55,7 @@ function invokeAction({ action, id, name, email, phone }) {
     case 'remove':
       removeContact(id)
         .then(contacts => {
-          console.log(chalk.greenBright(`Contact successfully deleted!`));
+          console.log(chalk.yellowBright(`Contact successfully deleted!`));
           console.table(contacts);
         })
         .catch(console.error);
