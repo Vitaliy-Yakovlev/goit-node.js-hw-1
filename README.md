@@ -2,7 +2,7 @@
 
 ## Получаем и выводим весь список контактов в виде таблицы (console.table)
 
-http://joxi.ru/brRX7zZCL6zZR2
+[Получаем список контактов](http://joxi.ru/brRX7zZCL6zZR2)
 
 node index.js --action list
 
